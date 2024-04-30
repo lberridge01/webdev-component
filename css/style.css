@@ -222,3 +222,13 @@ h2 .header_button_shop{
     margin-right: 10px;
     padding: 2em;
 }
+.reviews{
+    background-color: #9A4735;
+    color:#f3e9d7;
+    text-align: center;
+    display: inline;
+}
+.reviews h1{
+    color: #f3e9d7;
+    font-size: 35pt;
+}
